@@ -7,6 +7,8 @@
     <groupId>org.example</groupId>
     <artifactId>002_20211203</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -17,6 +19,7 @@
     </dependencies>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
